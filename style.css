@@ -1,0 +1,176 @@
+body{
+    margin:0;
+}
+.home-page{
+    padding:0% 15% 5%;
+    background-image: url("images/Brisfit\ Home.png");
+}
+.navbgcolor{
+    background: none;
+    
+}
+.navbar-logo{
+    width: 200px;
+}
+.navbar-branding{
+    padding: 5% 0% 0% 0%;
+}
+.nav-list-item{
+    padding:0% 4%;
+  
+}
+.nav-ul{
+    margin:0% 0% 1% 0%;
+}
+.home-text{
+    width:100%;
+    margin-top: 5%;
+    opacity:0.1;
+    
+}
+.navbar-dark .navbar-nav .nav-link {
+    color:aqua;
+}
+.home-h1{
+    margin-top: 0%;
+    color:aqua;
+    font-size: xx-large;
+    font-weight:300;
+}
+.today{
+    color:white;
+}
+.home-h3{
+    color:white;
+    font-size: medium;
+    font-weight: 100;
+    
+}
+.get-started {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    background:none;
+    color: aqua;
+    font-size: 20px;
+    padding: 7px 20px 7px 20px;
+    border: solid aqua 2px;
+    text-decoration: none;
+    margin:2% 0%;
+  }
+  
+  .get-started:hover {
+    background: #ffffff;
+    text-decoration: none;
+  }
+
+  .hrone{
+    border-style: solid;
+    height: 1%;
+    border-color: aqua;
+    margin:0%
+
+  }
+
+ 
+  /* SECTION 2 */
+
+  .section-2{
+      background-image: url("images/trainingbg.png");
+      padding:3% 15%;
+      
+
+  }
+  
+.training-heading{
+    
+    width:50%;
+    
+    margin-left:5%;
+}
+.row-2{
+    margin-top: 0%;
+}
+.card-body{
+    text-align: center;
+}
+.card{
+    margin-bottom: 5%;
+}
+
+
+/* SECTION-3 */
+
+.section-3{
+    background-image: url("images/dietbg.png");
+    padding: 5% 15%;
+
+}
+.diet-heading{
+    width:22%;
+    
+}
+.carousel-image{
+    opacity: 1.0;
+}
+.carousel-image:hover{
+    opacity: 0.5;
+}
+.diet-base{
+    text-align: center;
+    color: aqua;
+    font-size: larger;
+    margin:5% ;
+}
+
+
+
+/* SECTION-4 */
+
+.section-4{
+    background-image: url("images/motivationbg.png");
+    padding: 3% 15%;
+}
+.link-card{
+    margin:2% 5%;
+}
+
+
+/* SECTION-5 */
+
+.section-5{
+    background-image: url("images/songbg.png");
+    padding:3% 15%;
+}
+.song-heading{
+    width:70%;
+}
+.playlist-item{
+    background: none;
+}
+
+/* section-6 */
+
+.section-6{
+    background-image: url("images/teambg.png");
+    padding:3% 15%;
+    
+}
+.tit{
+    width:100%;
+    padding-left: 25%;
+}
+.team-card{
+    margin:5% 5%;
+}
+.section-7{
+    height:50px;
+    background-color: aqua;
+
+}
+.footer-texting{
+    text-align: center;
+    padding:20px;
+    color:white;
+    font-size: small;
+}
